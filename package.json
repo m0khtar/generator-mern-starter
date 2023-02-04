@@ -1,0 +1,16 @@
+{
+  "name": "generator-mern-starter",
+  "version": "1.0.0",
+  "description": "mern starter generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.13.0"
+  }
+}
